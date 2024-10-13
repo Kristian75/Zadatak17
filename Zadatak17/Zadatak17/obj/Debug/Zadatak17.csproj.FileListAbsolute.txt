@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\Zadatak17\Zadatak17\bin\Debug\Zadatak17.exe.config
+C:\Users\Korisnik\source\repos\Zadatak17\Zadatak17\bin\Debug\Zadatak17.exe
+C:\Users\Korisnik\source\repos\Zadatak17\Zadatak17\bin\Debug\Zadatak17.pdb
+C:\Users\Korisnik\source\repos\Zadatak17\Zadatak17\obj\Debug\Zadatak17.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\Zadatak17\Zadatak17\obj\Debug\Zadatak17.Form1.resources
+C:\Users\Korisnik\source\repos\Zadatak17\Zadatak17\obj\Debug\Zadatak17.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\Zadatak17\Zadatak17\obj\Debug\Zadatak17.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Zadatak17\Zadatak17\obj\Debug\Zadatak17.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Zadatak17\Zadatak17\obj\Debug\Zadatak17.exe
+C:\Users\Korisnik\source\repos\Zadatak17\Zadatak17\obj\Debug\Zadatak17.pdb
